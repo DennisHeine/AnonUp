@@ -1,0 +1,8 @@
+C:\Users\denni\source\repos\AnonUp\AnonUp\obj\Debug\AnonUp.Form1.resources
+C:\Users\denni\source\repos\AnonUp\AnonUp\obj\Debug\AnonUp.Properties.Resources.resources
+C:\Users\denni\source\repos\AnonUp\AnonUp\obj\Debug\AnonUp.csproj.GenerateResource.cache
+C:\Users\denni\source\repos\AnonUp\AnonUp\bin\Debug\AnonUp.exe.config
+C:\Users\denni\source\repos\AnonUp\AnonUp\bin\Debug\AnonUp.exe
+C:\Users\denni\source\repos\AnonUp\AnonUp\bin\Debug\AnonUp.pdb
+C:\Users\denni\source\repos\AnonUp\AnonUp\obj\Debug\AnonUp.exe
+C:\Users\denni\source\repos\AnonUp\AnonUp\obj\Debug\AnonUp.pdb
